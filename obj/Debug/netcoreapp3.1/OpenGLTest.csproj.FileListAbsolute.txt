@@ -1,0 +1,16 @@
+C:\Users\itsba\source\repos\OpenGLTest\OpenGLTest\bin\Debug\netcoreapp3.1\OpenGLTest.exe
+C:\Users\itsba\source\repos\OpenGLTest\OpenGLTest\bin\Debug\netcoreapp3.1\OpenGLTest.deps.json
+C:\Users\itsba\source\repos\OpenGLTest\OpenGLTest\bin\Debug\netcoreapp3.1\OpenGLTest.runtimeconfig.json
+C:\Users\itsba\source\repos\OpenGLTest\OpenGLTest\bin\Debug\netcoreapp3.1\OpenGLTest.runtimeconfig.dev.json
+C:\Users\itsba\source\repos\OpenGLTest\OpenGLTest\bin\Debug\netcoreapp3.1\OpenGLTest.dll
+C:\Users\itsba\source\repos\OpenGLTest\OpenGLTest\bin\Debug\netcoreapp3.1\OpenGLTest.pdb
+C:\Users\itsba\source\repos\OpenGLTest\OpenGLTest\obj\Debug\netcoreapp3.1\OpenGLTest.GLFW.Strings.resources
+C:\Users\itsba\source\repos\OpenGLTest\OpenGLTest\obj\Debug\netcoreapp3.1\OpenGLTest.csproj.GenerateResource.cache
+C:\Users\itsba\source\repos\OpenGLTest\OpenGLTest\obj\Debug\netcoreapp3.1\OpenGLTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsba\source\repos\OpenGLTest\OpenGLTest\obj\Debug\netcoreapp3.1\OpenGLTest.AssemblyInfoInputs.cache
+C:\Users\itsba\source\repos\OpenGLTest\OpenGLTest\obj\Debug\netcoreapp3.1\OpenGLTest.AssemblyInfo.cs
+C:\Users\itsba\source\repos\OpenGLTest\OpenGLTest\obj\Debug\netcoreapp3.1\OpenGLTest.csproj.CoreCompileInputs.cache
+C:\Users\itsba\source\repos\OpenGLTest\OpenGLTest\obj\Debug\netcoreapp3.1\OpenGLTest.dll
+C:\Users\itsba\source\repos\OpenGLTest\OpenGLTest\obj\Debug\netcoreapp3.1\OpenGLTest.pdb
+C:\Users\itsba\source\repos\OpenGLTest\OpenGLTest\obj\Debug\netcoreapp3.1\OpenGLTest.genruntimeconfig.cache
+C:\Users\itsba\source\repos\OpenGLTest\OpenGLTest\obj\Debug\netcoreapp3.1\OpenGLTest.csproj.AssemblyReference.cache
